@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(218, 216, 214);
+    margin: 5%;
+}
+.navbar{
+    margin-bottom: 10%;
+    color: plum;
+}
+.allcards{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+
+}
+.card{
+    display: flex;
+    margin: 5%;
+}
+.text{
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+}
